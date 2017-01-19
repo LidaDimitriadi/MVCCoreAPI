@@ -1,0 +1,3 @@
+{
+  "DbConnectionString": "Server=(localdb)\\MSSQLLocalDb;Database=ProductManagementDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+}
